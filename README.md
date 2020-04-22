@@ -285,4 +285,4 @@ int main() {
 
 Pseudocódigo:
 
-![](https://i.imgur.com/T03pyXO.png)
+![](https://i.imgur.com/gQ3KIxD.png)
