@@ -107,7 +107,7 @@ int main() {
 	scanf ("%d", &primeiramao);
 	
 	printf ("\n\nInsira a segunda mao (de 0 ate 4) = ");	
-	scanf ("%d", &segundamao2);
+	scanf ("%d", &segundamao);
 	
 			
 	if ((primeiramao == 0 && segundamao == 1)||(primeiramao == 0 && segundamao == 2)||(primeiramao == 1 && segundamao == 0)||(primeiramao == 2 && segundamao == 0))
@@ -236,21 +236,7 @@ int main()
 A formula usada para construir a tabela-verdade é uma Contingencia
 
 9) Escreva um programa em Português Estruturado que leia o ano de nascimento de uma pessoa e calcule e exiba a sua idade. 
-
-```
-inicio
-
-    inteiro anodeNascimento, suaidade
-
-    escreva("Digite o ano em que voce nasceu:")
-    leia(anodeNascimento)
-
-    suaidade <- (2020-anodeNascimento)
-
-    escreva("Voce tem ", suaidade, " anos")
-
-fimalgoritmo
-```
+![](https://i.imgur.com/GYp6I7E.png)
 
 10) Escreva um programa em pseudocódigo e outro na linguagem C que peçam ao usuário para entrar com os três lados de um triângulo e escreva a área desse triângulo. O programa deverá também validar a entrada do usuário, ou seja, deverá verificar se os três valores de entrada satisfazem à condição de existência de um triângulo: “Cada lado do triângulo deve ser menor que a soma dos outros dois”.
 
